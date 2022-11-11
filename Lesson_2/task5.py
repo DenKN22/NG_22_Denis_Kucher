@@ -1,4 +1,4 @@
-listNum = list(map(int, input("Write you Number: ").split()))
+listNum = list(map(int, input("Write you Number: ").split(",")))
 print(listNum)
 Max = max(listNum)
 Min = min(listNum)
