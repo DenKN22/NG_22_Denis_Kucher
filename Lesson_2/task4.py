@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 num = int(input("Write you num"))
 result = 1
 check = 1
